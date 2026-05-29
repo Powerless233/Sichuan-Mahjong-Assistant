@@ -1,0 +1,7 @@
+build/
+build_verify.exe
+quick.exe
+CMakeCache.txt
+CMakeFiles/
+*.user
+*.autosave
